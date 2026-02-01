@@ -12,7 +12,7 @@ I am an MCA student documenting my daily progress in Data Structures and Algorit
 
 ## 📊 Progress Tracker
 | Topic | Status | Problems Solved |
-|Basics |In progress| 3 |
+|Basics |In progress| 7 |
 
 ---
 
@@ -25,3 +25,5 @@ I am an MCA student documenting my daily progress in Data Structures and Algorit
 - **Twitter/X:** https://x.com/AnshGupta_1703
 ---
 "Consistency is the only bridge between goals and accomplishment."
+
+#updated config
